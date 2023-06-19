@@ -24,5 +24,3 @@ IoT の実験で取得したデータを表示するための Web フロント�
 ## Links
 
 - [Vue.js 公式](https://ja.vuejs.org/)
-
---
